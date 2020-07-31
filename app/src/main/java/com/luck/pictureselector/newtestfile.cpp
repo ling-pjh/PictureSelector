@@ -4,6 +4,5 @@ int main()
     float d,e,f;
     int a,b,c;
     printf("hello world!\n");
-    double aa,bb,cc;
     return 0;
 }
