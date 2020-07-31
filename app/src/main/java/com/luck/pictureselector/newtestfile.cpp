@@ -2,6 +2,7 @@
 int main()
 {
     float d,e,f;
+    double kk,kk2,kk3;
     int a,b,c;
     printf("hello world!\n");
     return 0;
